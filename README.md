@@ -13,7 +13,7 @@
 
 ## Lunch
 - 1 bowl rice: 400 kcal
-- 200g chicken breast: 320 kcal
+- 200g chicken breast: 320 kcal/250g beef:375kcal 
 - Vegetable (200g): ~120 kcal
 - **Total**: 840 kcal
 
