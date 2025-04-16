@@ -13,17 +13,17 @@
 
 ## Lunch
 - 1 bowl rice: 400 kcal
-- 200g chicken breast: 320 kcal/250g beef:375kcal 
+- 150g chicken breast: 320 kcal/200g beef:500kcal 
 - Vegetable (200g): ~120 kcal
-- **Total**: 840 kcal
+- **Total**: ~900 kcal
 
 ## Dinner
 - 1 bowl rice: 400 kcal
-- 200g chicken breast: 320 kcal
+- 150g chicken breast: 320 kcal
 - Vegetable (200g): ~120 kcal
-- **Total**: 840 kcal
+- **Total**: ~900 kcal
 
 ## Supplement
 - Whey protein powder (2 scoops): 300 kcal
 
-**Grand Total**: 2480 kcal
+**Grand Total**: 2600 kcal
